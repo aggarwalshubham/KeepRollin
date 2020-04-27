@@ -35,4 +35,4 @@
 
 - Run **./server** on one terminal
 
-- Run **./client <server IP>** on other two terminals
+- Run **./client 'server IP'** on other two terminals
