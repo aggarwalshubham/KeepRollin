@@ -29,10 +29,10 @@
 
 - Open 3 Terminal windows - 1 for server and 2 for clients
 
-- Run **gcc server.c -o server**
+- Run `gcc server.c -o server`
 
-- Run **gcc client.c -o client**
+- Run `gcc client.c -o client`
 
-- Run **./server** on one terminal
+- Run `./server` on one terminal
 
-- Run **./client 'server IP'** on other two terminals
+- Run `./client <server IP>` on other two terminals
